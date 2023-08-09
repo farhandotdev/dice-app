@@ -1,4 +1,4 @@
-# mi_card
+# diceApp
 
 A new Flutter project.
 
